@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Private/dev.README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "dev.README"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "fab84b433b8fff73",
+            "id": "3adf8b4723930ec8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -175,7 +175,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -189,8 +188,10 @@
   },
   "active": "72ac009b4f76b0fd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "Private/dev.README.md",
+    "Private",
+    "conflict-files-obsidian-git.md",
     "Tags"
   ]
 }

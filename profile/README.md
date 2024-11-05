@@ -1,6 +1,8 @@
-# Need to streamline operations and boost profits?
+# 📚 My Digital Universe
 
-## I am a digital solution architect helping ecommerce businesses do just that.
+&nbsp;&nbsp;![Build Status](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Build Status](https://img.shields.io/badge/Maintained%3F-yes-green.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Build Status](https://img.shields.io/github/license/pistolwhip.justin/digital-universe.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Build Status](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+
+Welcome to the chaotic wonderland of my digital universe! Dive into this public version of my personal Obsidian vault, where I'm {just} starting to unleash my notes, thoughts, and knowledge on a variety of fuckery. If you're ready to engage with this magnificently organized shitshow of ideas, I’d be thrilled to point you toward the chatbot location.
 <p>&nbsp;</p>
 
 <div id="header" align="center">
